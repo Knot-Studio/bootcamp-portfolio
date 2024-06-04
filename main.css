@@ -1,0 +1,103 @@
+html {
+    height: 100%;
+}
+body {
+    background-color:rgb(244, 227, 197);
+    background-image: url(images/loop.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+
+}
+
+.wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1050px;
+}
+header {
+    height: 300px;
+    text-align:center;
+
+}
+
+nav {
+    background-color:rgba(255, 127, 80, 0.872);
+    /*height: 40px;*/
+    text-align: center;
+    font-size: 26px;
+    color: cornflowerblue;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+
+main {
+    height:400px;
+    text-align:center;
+    padding-top: 10px;
+    margin-top: 20px;
+    padding-left: 240px;
+    padding-right: 240px;
+
+}
+
+.pill {
+    color:coral;
+    background-color:rgba(244, 227, 197, 0.378);
+    font-size: 18px;
+    font-family: 'Pier Sans', 'Gill Sans', sans-serif;
+    padding:0.5em ;
+    margin: 0.25em;
+    border-radius: 1.25em;
+   border-color: coral;
+}
+
+footer {
+    background-color:rgba(5, 196, 113, 0.83);
+    /*height: 100px;*/
+
+}
+h1 {
+    font-size: 40px;
+    color: cornflowerblue;
+    font-style: italic;
+    font-family:'Acre', 'Pier Sans ', 'Gill Sans', sans-serif
+    
+}
+p {
+    font-size: 20px;
+    color:cornflowerblue;
+    font-family: 'Pier Sans', 'Gill Sans', 'Gill Sans MT', sans-serif
+    
+}
+
+a {
+        font-size: 30px;
+        color:cornflowerblue;
+        font-family:'Quirino';
+        /*text-decoration: none;*/
+        
+    }
+
+nav a {
+    font-family: 'Crimson Pro';
+    text-decoration: none;
+    padding-left: 14px;
+    padding-right: 14px;
+}
+
+footer a {
+    font-size: 18px;
+    color:rgb(244, 227, 197);
+  
+
+}
+footer p {
+    font-size: 15px;
+    font-family: 'Crimson Pro', Georgia, serif !important;
+    color:rgb(244, 227, 197);
+    padding-top: 14px;
+    padding-bottom: 14px;
+    text-align: center;
+}
